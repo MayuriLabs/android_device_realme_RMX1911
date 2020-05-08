@@ -4,5 +4,11 @@
     "repository": "wulan17/android_kernel_realme_RMX1911",
     "target_path": "kernel/realme/RMX1911",
     "branch": "realme5"
+  },
+  {
+    "remote": "github",
+    "repository": "wulan17/android_device_realme_sdm665-common",
+    "target_path": "device/realme/sdm665-common",
+    "branch": "android-9.0"
   }
 ]

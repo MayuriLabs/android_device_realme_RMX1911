@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "wulan17/android_kernel_realme_RMX1911",
+    "target_path": "kernel/realme/RMX1911",
+    "branch": "realme5"
+  }
+]
